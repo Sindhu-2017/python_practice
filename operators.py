@@ -72,3 +72,12 @@ if expected_status_code == actual_status_code:
   print("API TEST PASS")
 else:
   print("API TEST FAIL")
+
+
+#conditional expression
+
+num=11
+
+result="Even" if num%2 ==0 else "Odd"
+
+print(result)
