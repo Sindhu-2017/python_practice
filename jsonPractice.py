@@ -118,4 +118,3 @@ with open("test_result.json","r") as file:
     print("Actual :",content["actual"])
     print("Status:",content["status"])
 
-

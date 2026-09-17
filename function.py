@@ -116,4 +116,3 @@ test_cases = [
 for cases in test_cases:
     validate_case(cases)
 
-
